@@ -1,0 +1,122 @@
+[
+    {
+        "id": "1",
+        "category": "Two Wheeler",
+        "brand": "Exide",
+        "dealer": "Ramesh",
+        "contact": "9988776655",
+        "price": 4000,
+        "discription": "Two Wheeler battery",
+        "image": "https://www.tatagreenbattery.com/wp-content/uploads/2020/12/38B20R-3028.png"
+    },
+    {
+        "id": "2",
+        "category": "Four Wheeler",
+        "brand": "Exide",
+        "dealer": "Manish",
+        "contact": "9988776655",
+        "price": 6000,
+        "discription": "Two Wheeler battery",
+        "image": "https://www.tatagreenbattery.com/wp-content/uploads/2020/12/38B20R-3028.png"
+    },
+    {
+        "id": "3",
+        "category": "Car",
+        "brand": "Exide",
+        "price": 8000,
+        "dealer": "Ravneesh",
+        "contact": "9988776655",
+        "discription": "Two Wheeler battery",
+        "image": "https://www.tatagreenbattery.com/wp-content/uploads/2020/12/38B20R-3028.png"
+    },
+    {
+        "id": "4",
+        "category": "Inverter Battery",
+        "brand": "Exide",
+        "price": 10000,
+        "dealer": "harish",
+        "contact": "9988776655",
+        "discription": "Two Wheeler battery",
+        "image": "https://www.tatagreenbattery.com/wp-content/uploads/2020/12/38B20R-3028.png"
+    },
+    {
+        "id": "5",
+        "category": "E-Rickshaw",
+        "brand": "Exide",
+        "price": 12000,
+        "dealer": "Jagdish",
+        "contact": "9988776655",
+        "discription": "Two Wheeler battery",
+        "image": "https://www.tatagreenbattery.com/wp-content/uploads/2020/12/38B20R-3028.png"
+    },
+    {
+        "id": "6",
+        "category": "Two Wheeler",
+        "brand": "Exide",
+        "price": 14000,
+        "dealer": "Suresh",
+        "contact": "9988776655",
+        "discription": "Two Wheeler battery",
+        "image": "https://www.tatagreenbattery.com/wp-content/uploads/2020/12/38B20R-3028.png"
+    },
+    {
+        "id": "1",
+        "category": "Two Wheeler",
+        "brand": "Exide",
+        "dealer": "Sagar",
+        "contact": "9988776655",
+        "price": 4000,
+        "discription": "Two Wheeler battery",
+        "image": "https://www.tatagreenbattery.com/wp-content/uploads/2020/12/38B20R-3028.png"
+    },
+    {
+        "id": "2",
+        "category": "Four Wheeler",
+        "brand": "Exide",
+        "dealer": "Sameer",
+        "contact": "9988776655",
+        "price": 6000,
+        "discription": "Four Wheeler battery",
+        "image": "https://www.tatagreenbattery.com/wp-content/uploads/2020/12/38B20R-3028.png"
+    },
+    {
+        "id": "3",
+        "category": "Car",
+        "brand": "Exide",
+        "price": 8000,
+        "dealer": "Pargat",
+        "contact": "9988776655",
+        "discription": "Two Wheeler battery",
+        "image": "https://www.tatagreenbattery.com/wp-content/uploads/2020/12/38B20R-3028.png"
+    },
+    {
+        "id": "4",
+        "category": "Inverter Battery",
+        "brand": "Exide",
+        "price": 10000,
+        "dealer": "Aman",
+        "contact": "9988776655",
+        "discription": "Two Wheeler battery",
+        "image": "https://www.tatagreenbattery.com/wp-content/uploads/2020/12/38B20R-3028.png"
+    },
+    {
+        "id": "5",
+        "category": "E-Rickshaw",
+        "brand": "Exide",
+        "price": 12000,
+        "dealer": "Sukhwinder",
+        "contact": "9988776655",
+        "discription": "Two Wheeler battery",
+        "image": "https://www.tatagreenbattery.com/wp-content/uploads/2020/12/38B20R-3028.png"
+    },
+    {
+        "id": "6",
+        "category": "Two Wheeler",
+        "brand": "Exide",
+        "price": 14000,
+        "dealer": "Harjinder",
+        "contact": "9988776655",
+        "discription": "Two Wheeler battery",
+        "image": "https://www.tatagreenbattery.com/wp-content/uploads/2020/12/38B20R-3028.png"
+    }
+]

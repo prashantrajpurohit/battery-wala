@@ -1,0 +1,38 @@
+.card-img-top {
+    height: 400px;
+    width: 300px;
+    object-fit: contain;
+}
+
+.col-4 {
+    border-radius: 0px;
+    margin-bottom: 20px;
+
+
+}
+
+.card {
+    padding: 20px 18px;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card {
+    background-color: white;
+}
+
+.row {
+    background-color: white;
+}
+
+.our_product {
+    background-color: white;
+}
+
+.card_div {
+    display: flex;
+    flex: 30%;
+    margin-bottom: 3%;
+}
